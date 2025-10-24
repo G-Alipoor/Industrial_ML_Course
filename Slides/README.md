@@ -6,9 +6,9 @@ The slides currently available (with links) include:
 
 | Chapter | Description | PDF |
 |---------|-------------|-----|
-| Chapter 1 – Introduction | Overview of the course, objectives, and industrial ML context | [PDF](./Slides/Ch1_Introduction.pdf) |
-| Chapter 3 – Data Preprocessing | Feature scaling, encoding, and visualization techniques | [PDF](./Slides/Ch3_Data_Preprocessing.pdf) |
-| Chapter 4 – Basic Machine Learning Algorithms | Overview of regression, classification, and evaluation methods | [PDF](./Slides/Ch4_Basic_ML.pdf) |
+| Chapter 1 – Introduction | Overview of the course, objectives, and industrial ML context | [PDF](./Slides/Industrial_ML_Ch 1_Introduction.pdf) |
+| Chapter 3 – Data Preprocessing | Feature scaling, encoding, and visualization techniques | [PDF](./Slides/Industrial_ML_Ch 3_Data_Preprocessing.pdf) |
+| Chapter 4 – Basic Machine Learning Algorithms | Overview of regression, classification, and evaluation methods | [PDF](./Slides/Industrial_ML_Ch 4_Basic_ML.pdf) |
 
 > ⚠️ **Note:**  
 > - Chapter 2 (Introduction to Python for ML) is **presented entirely through Jupyter notebooks** in the `notebooks/` folder.  
