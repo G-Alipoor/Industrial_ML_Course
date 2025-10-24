@@ -13,4 +13,5 @@ The slides currently available (with links) include:
 > ⚠️ **Note:**  
 > - Chapter 2 (Introduction to Python for ML) is **presented entirely through Jupyter notebooks** in the `notebooks/` folder.  
 > - Slides for Chapter 5 and any additional chapters are **currently under development** and will be added as they are created.  
-> - All slides are provided in PDF format and are intended to accompany the Jupyter notebooks in the course repository.
+> - PDF versions of the slides will be added to this folder as they become available.  
+> - Slides are intended to accompany the Jupyter notebooks in the course repository.
